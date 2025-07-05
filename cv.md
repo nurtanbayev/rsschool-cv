@@ -1,4 +1,6 @@
 # CV
+
+![Photo](./photo.jpg)
 ### Name:
 Nurlan Urtanbayev
 
